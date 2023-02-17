@@ -1,6 +1,6 @@
 <template>
   <div>
-    登录
+    个人博客登录
   </div>
 </template>
 
