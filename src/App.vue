@@ -1,7 +1,7 @@
 <template>
   <keep-alive>
     <div>
-      个人博客
+      <router-view></router-view>
     </div>
   </keep-alive>
 </template>
